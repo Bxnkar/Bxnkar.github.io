@@ -6,9 +6,10 @@
   🕹️ bxnkar.exe
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=600&color=9D4EDD&center=true&vCenter=true&width=520&lines=Computer+Engineering+Student;Backend+%26+ML+Explorer;Build+→+Break+→+Fix+→+Repeat" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=800&color=9D4EDD&width=600&lines=Computer+Engineering+Student;Backend+%26+ML+Explorer;Build+-+Break+-+Fix+-+Repeat" />
+</div>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=for-the-badge&labelColor=000000"/>
