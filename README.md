@@ -1,5 +1,4 @@
-````md
-# ⛏️ bxnkar — Survival Mode Portfolio
+# ⛏️ Om Bankar — Portfolio
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=24&pause=800&color=4CAF50&width=700&lines=Entering+Survival+Mode...;Backend+%7C+DSA+%7C+Machine+Learning;Build+Blocks.+Break+Blocks.+Learn.)
 
@@ -23,13 +22,13 @@
 
 ## 🌱 PLAYER PROFILE
 
-```txt
+txt
 Username    : bxnkar
 Class       : Computer Engineering Student
 Biome       : Backend • DSA • Machine Learning
 Playstyle   : Experiment → Fail → Fix → Upgrade
 World Type  : Long-term Survival
-````
+
 
 I build systems the same way you build a base in survival.
 Start small. Reinforce weak spots. Optimize everything.
