@@ -101,7 +101,3 @@ Always improving. Always curious.
 
 ![](https://visitcount.itsvg.in/api?id=Bxnkar\&icon=3\&color=9D4EDD)
 
-<p align="center">
-  <sub>GAME SAVED ✓</sub>
-</p>
-```
