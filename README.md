@@ -1,4 +1,3 @@
-````md
 <!-- ===================== -->
 <!-- 🎮 PLAYER INTRO SCREEN -->
 <!-- ===================== -->
@@ -20,12 +19,12 @@
 
 ## 🧠 PLAYER PROFILE
 
-```txt
+
 Name        : bxnkar
 Class       : Computer Engineering Student
 Build Type  : Backend • DSA • Machine Learning
 Playstyle   : Think → Build → Break → Fix → Learn
-````
+
 
 I like building things that actually work.
 Ideas become projects. Projects break. I fix them. I learn.
