@@ -8,6 +8,11 @@
 
 [ ⛏️ Python ] [ 🪓 Java ] [ 🧱 C++ ] [ 🔧 Flask ] [ ⚙️ NestJS ] [ 🧠 ML ] [ 🗄️ DB ] [ 🌐 Web ] [ 🧭 Git ]
 
+## 🎮 HOTBAR (ACTIVE SLOT)
+
+![Active Slot](https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=1200&color=81C784&width=600&lines=[⛏️+Python]+Java+C%2B%2B+Flask+NestJS+ML+DB+Web+Git;Python+[⛏️+Java]+C%2B%2B+Flask+NestJS+ML+DB+Web+Git;Python+Java+[⛏️+C%2B%2B]+Flask+NestJS+ML+DB+Web+Git)
+
+
 
 ## ❤️ PLAYER HUD
 
