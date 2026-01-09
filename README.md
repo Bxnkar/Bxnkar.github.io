@@ -4,6 +4,11 @@
 
 ---
 
+## 🎒 ACTIVE HOTBAR
+
+[ ⛏️ Python ] [ 🪓 Java ] [ 🧱 C++ ] [ 🔧 Flask ] [ ⚙️ NestJS ] [ 🧠 ML ] [ 🗄️ DB ] [ 🌐 Web ] [ 🧭 Git ]
+
+
 ## ❤️ PLAYER HUD
 
 **Health**
