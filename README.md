@@ -1,118 +1,62 @@
-# ⛏️ Om Bankar — Portfolio
+# 👋 Hey, I’m bxnkar
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=24&pause=800&color=4CAF50&width=700&lines=Entering+Survival+Mode...;Backend+%7C+DSA+%7C+Machine+Learning;Build+Blocks.+Break+Blocks.+Learn.)
+Computer Engineering student | Backend • DSA • Machine Learning  
+I build things. I break them. I figure out why. Then I build them better.
 
----
-
-## 🎒 ACTIVE HOTBAR
-
-[ ⛏️ Python ] [ 🪓 Java ] [ 🧱 C++ ] [ 🔧 Flask ] [ ⚙️ NestJS ] [ 🧠 ML ] [ 🗄️ DB ] [ 🌐 Web ] [ 🧭 Git ]
-
-## 🎮 HOTBAR (ACTIVE SLOT)
-
-![Active Slot](https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=1200&color=81C784&width=600&lines=[⛏️+Python]+Java+C%2B%2B+Flask+NestJS+ML+DB+Web+Git;Python+[⛏️+Java]+C%2B%2B+Flask+NestJS+ML+DB+Web+Git;Python+Java+[⛏️+C%2B%2B]+Flask+NestJS+ML+DB+Web+Git)
-
-## 🎮 HOTBAR (SCROLLING)
-
-![Hotbar](https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=700&color=4CAF50&width=800&lines=[⛏️+Python]+[Java]+[C++]+[Flask]+[NestJS]+[ML]+[DB]+[Web]+[Git];[Python]+[⛏️+Java]+[C++]+[Flask]+[NestJS]+[ML]+[DB]+[Web]+[Git];[Python]+[Java]+[⛏️+C++]+[Flask]+[NestJS]+[ML]+[DB]+[Web]+[Git];[Python]+[Java]+[C++]+[⛏️+Flask]+[NestJS]+[ML]+[DB]+[Web]+[Git];[Python]+[Java]+[C++]+[Flask]+[⛏️+NestJS]+[ML]+[DB]+[Web]+[Git];[Python]+[Java]+[C++]+[Flask]+[NestJS]+[⛏️+ML]+[DB]+[Web]+[Git])
-
-
-
-## ❤️ PLAYER HUD
-
-**Health**
-![Health](https://img.shields.io/badge/❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️-100%25-4CAF50?style=for-the-badge)
-
-**Hunger**
-![Hunger](https://img.shields.io/badge/🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖-FULL-8D6E63?style=for-the-badge)
-
-**XP Level**
-![XP](https://img.shields.io/badge/XP-LEVEL+23-2E7D32?style=for-the-badge)
-
-**Game Mode**
-![Mode](https://img.shields.io/badge/MODE-SURVIVAL-1B5E20?style=for-the-badge)
+> "Progress, not perfection."  
+> "Code is just logic with commitment issues."  
+> "Every bug teaches something, if you listen."  
+> "Small wins stack into big systems."
 
 ---
 
-## 🌱 PLAYER PROFILE
+## 🧠 About Me
 
-txt
-Username    : bxnkar
-Class       : Computer Engineering Student
-Biome       : Backend • DSA • Machine Learning
-Playstyle   : Experiment → Fail → Fix → Upgrade
-World Type  : Long-term Survival
+I like working on problems that make me think instead of just following steps.  
+Most of my time goes into backend development, data structures, and machine learning.
 
+Languages and tools I work with:
+- Python, Java, C++
+- Flask, Django, NestJS, Next.js
+- PostgreSQL, MongoDB, Redis
+- PyTorch, scikit-learn, NumPy, Pandas
+- Git, GitHub, Cloud platforms
 
-I build systems the same way you build a base in survival.
-Start small. Reinforce weak spots. Optimize everything.
-
-Backend development, data structures, and machine learning are my main grind.
-Python and Java are my primary tools. Web tech fills the gaps.
-
-This GitHub is my world save.
-Progress > perfection.
+This GitHub is a snapshot of what I’m learning and building.  
+Always in progress. Always upgrading.
 
 ---
 
-## 🎒 INVENTORY
+## 🎯 Current Focus
 
-| Slot | Item                           | Description                       |
-| ---: | ------------------------------ | --------------------------------- |
-|   ⛏️ | **Python**                     | Main tool for backend + ML builds |
-|   🪓 | **Java**                       | Strong foundations and DSA work   |
-|   🧱 | **C++**                        | Low-level problem solving         |
-|   🔧 | **Flask / Django**             | Crafting backend services         |
-|   ⚙️ | **NestJS / Next.js**           | Structured web systems            |
-|   🧠 | **PyTorch / scikit-learn**     | Model training & experiments      |
-|  🗄️ | **Postgres / MongoDB / Redis** | World storage systems             |
-|   🧭 | **Git / GitHub**               | Version control & collaboration   |
+- Strengthening core DSA concepts  
+- Building backend-heavy projects  
+- Training and evaluating ML models  
+- Writing cleaner, more maintainable code  
+
+> "You don’t rise to the level of your goals, you fall to the level of your systems."
 
 ---
 
-## 🧪 ENCHANTMENTS (SKILLS)
+## 📊 GitHub Stats
 
-**Backend Engineering**
-![Backend](https://img.shields.io/badge/████████░░-80%25-388E3C?style=for-the-badge)
-
-**Data Structures**
-![DSA](https://img.shields.io/badge/███████░░░-70%25-2E7D32?style=for-the-badge)
-
-**Machine Learning**
-![ML](https://img.shields.io/badge/██████░░░░-60%25-1B5E20?style=for-the-badge)
-
-**System Design**
-![System](https://img.shields.io/badge/█████░░░░░-50%25-004D40?style=for-the-badge)
+![Stats](https://github-readme-stats.vercel.app/api?username=Bxnkar&theme=midnight-purple&show_icons=true)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Bxnkar&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bxnkar&layout=compact&theme=midnight-purple)
 
 ---
 
-## 🏆 ACHIEVEMENTS UNLOCKED
+## 🌐 Connect
 
-* 🧱 Built backend projects from scratch
-* 🧠 Trained ML models beyond tutorials
-* 🔄 Debugged broken systems under pressure
-* 🧭 Deployed real-world applications
-
----
-
-## 📊 WORLD STATS
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Bxnkar\&theme=green_ninja\&show_icons=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Bxnkar\&theme=green_ninja)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bxnkar\&layout=compact\&theme=green_ninja)
+[Instagram](https://instagram.com/bxnkar_)  
+[LinkedIn](https://linkedin.com/in/bankarom)  
+[Email](mailto:bankarom2006@gmail.com)
 
 ---
 
-## 🧭 FAST TRAVEL
+> "Stay curious."  
+> "Build slow, build right."  
+> "Good code feels quiet."  
+> "Learning never compiles with errors."
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E88E5?logo=linkedin\&logoColor=white)](https://linkedin.com/in/bankarom)
-[![Instagram](https://img.shields.io/badge/Instagram-5E35B1?logo=instagram\&logoColor=white)](https://instagram.com/bxnkar_)
-[![Email](https://img.shields.io/badge/Email-2E7D32?logo=gmail\&logoColor=white)](mailto:bankarom2006@gmail.com)
-
----
-
-![Visitors](https://visitcount.itsvg.in/api?id=Bxnkar\&icon=5\&color=4CAF50)
-
-**World Saved ✔️ | Don’t Die With Uncommitted Changes**
-
-```
+Thanks for stopping by.
